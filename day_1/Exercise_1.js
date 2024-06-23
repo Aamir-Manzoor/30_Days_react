@@ -17,3 +17,6 @@ console.log('length of mix Array', mixedDataTypes.length);
 
 
 const itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
+
+
+console.log('Companies ', itCompanies);
