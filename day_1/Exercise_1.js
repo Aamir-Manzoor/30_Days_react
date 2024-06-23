@@ -44,3 +44,6 @@ console.log("First element, middle element, last element", first, middle, last);
 // }
 
 console.log(itCompanies.join(' '), "are big IT Companies")
+
+
+console.log(itCompanies.includes('Facebook') ? "Facebook" : "Company Does not")
