@@ -1,3 +1,5 @@
+const { FirstPage } = require("@mui/icons-material");
+
 const books = Array();
 
 const books1 = Array('eng', 'hindi', 'urdu', 'science', 'evs', 'maths');
@@ -22,3 +24,11 @@ const itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle"
 console.log('Companies ', itCompanies);
 
 console.log('Companies length', itCompanies.length);
+
+const first = itCompanies[0];
+
+const middle = Math.floor(itCompanies.length / 2);
+
+const last = itCompanies.length -1;
+
+console.log("First element, middle element, last element", first, middle, last);
