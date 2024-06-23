@@ -38,7 +38,9 @@ console.log("First element, middle element, last element", first, middle, last);
 //     console.log(itCompanies[i]);
 // }
 
-for(var i=0; i<= itCompanies.length; i++){
+// for(var i=0; i<= itCompanies.length; i++){
     
-    console.log(itCompanies[i].toUpperCase());
-}
+//     console.log(itCompanies[i].toUpperCase());
+// }
+
+console.log(itCompanies.join(' '), "are big IT Companies")
