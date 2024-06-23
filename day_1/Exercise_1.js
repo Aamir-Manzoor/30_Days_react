@@ -20,3 +20,5 @@ const itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle"
 
 
 console.log('Companies ', itCompanies);
+
+console.log('Companies length', itCompanies.length);
