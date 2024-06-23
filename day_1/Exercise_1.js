@@ -14,3 +14,6 @@ console.log('last element', books1[5]);
 const mixedDataTypes = [3.14, "Hello", true, 42, null, [1, 2, 3]];
 
 console.log('length of mix Array', mixedDataTypes.length);
+
+
+const itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
