@@ -34,6 +34,11 @@ const last = itCompanies.length -1;
 console.log("First element, middle element, last element", first, middle, last);
 
 
+// for(var i=0; i<= itCompanies.length; i++){
+//     console.log(itCompanies[i]);
+// }
+
 for(var i=0; i<= itCompanies.length; i++){
-    console.log(itCompanies[i]);
+    
+    console.log(itCompanies[i].toUpperCase());
 }
