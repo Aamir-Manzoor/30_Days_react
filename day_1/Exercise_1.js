@@ -43,7 +43,7 @@ console.log("First element, middle element, last element", first, middle, last);
 //     console.log(itCompanies[i].toUpperCase());
 // }
 
-console.log(itCompanies.join(' '), "are big IT Companies")
+// console.log(itCompanies.join(' '), "are big IT Companies")
 
 
-console.log(itCompanies.includes('Facebook') ? "Facebook" : "Company Does not")
+// console.log(itCompanies.includes('Facebook') ? "Facebook" : "Company Does not")
