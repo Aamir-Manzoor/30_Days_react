@@ -21,17 +21,17 @@ console.log('length of mix Array', mixedDataTypes.length);
 const itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
 
 
-console.log('Companies ', itCompanies);
+// console.log('Companies ', itCompanies);
 
-console.log('Companies length', itCompanies.length);
+// console.log('Companies length', itCompanies.length);
 
-const first = itCompanies[0];
+// const first = itCompanies[0];
 
-const middle = Math.floor(itCompanies.length / 2);
+// const middle = Math.floor(itCompanies.length / 2);
 
-const last = itCompanies.length -1;
+// const last = itCompanies.length -1;
 
-console.log("First element, middle element, last element", first, middle, last);
+// console.log("First element, middle element, last element", first, middle, last);
 
 
 // for(var i=0; i<= itCompanies.length; i++){
